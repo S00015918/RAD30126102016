@@ -1,0 +1,2 @@
+﻿S00015918Clubs.Migration.AuthenticationMigrations
+S00015918Clubs.Migration.ClubsMigrations
